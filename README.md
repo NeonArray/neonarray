@@ -1,4 +1,4 @@
-## WHATUP NERDS
+## HELLO
 
 I ain't got much to say atm.
 
