@@ -1,5 +1,7 @@
 ## HELLO
 
+[![wakatime](https://wakatime.com/badge/user/5a4fde7c-bf39-4bec-abf2-6f59b653ea54.svg)](https://wakatime.com/@5a4fde7c-bf39-4bec-abf2-6f59b653ea54)
+
 I ain't got much to say atm.
 
 
